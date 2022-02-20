@@ -1,0 +1,45 @@
+@import url("https://coolors.co/palette/8e412e-ba6f4d-e6cebc-a2a182-687259-f4ece2");
+*{
+    box-sizing: border-box;
+    background-color: #e6cebc;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family:  Arial, sans-serif;
+    margin: 0;
+}
+
+.center{
+    text-align: center;
+    color:#687259
+}
+
+.sage {
+    color: #8e412e;
+    text-decoration: none;
+}
+a:hover {
+    color:#8e412e;
+}
+
+button{
+    background-color: #a2a182;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav img.logo{
+    width: 100px;
+}
+.form-group{
+    color:#687259
+}
+p{
+    color:#8e412e
+
+}
